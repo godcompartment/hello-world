@@ -1,2 +1,2 @@
-# sqlbridge
+# hello-world
 SQL testing
